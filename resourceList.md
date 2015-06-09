@@ -8,7 +8,7 @@ The best of the best resources compiled together into one list
   1. [JavaScript](#javascript)
   1. [PHP](#php)
   1. [CakePHP](#cakephp)
-  1. [UI/UX](#ui/ux)
+  1. [UI/UX](#uiux)
   1. [Design](#design)
 
 
